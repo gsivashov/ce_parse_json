@@ -1,0 +1,8 @@
+.venv/
+.vscode/
+*.csv
+*.json
+*.py
+*.txt
+
+!parse_json.py
